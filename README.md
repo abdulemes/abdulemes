@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulemes
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning HTML, CSS, JavaScript 
-- 💞️ I’m looking to collaborate on web development projects 
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning SQL, Python, Tablaeu
+- 💞️ I’m looking to collaborate on data analysis projects 
 - 📫 How to reach me abdulemes@gmail.com
 
 <!---
