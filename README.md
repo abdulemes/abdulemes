@@ -1,12 +1,11 @@
-### Hi there 👋, My name is Musa Abdullahi.
-#### DevOps Engineer
+### Hi there 👋, My name is Musa.
 I am very enthusiastic about the cloud computing space and the world of data. I like to leverage on my curiosity to learn about cool technologies so i can be a part of the new future that technology is driving us towards.
 
 Skills: HTML || Python || SQL || PowerBI || Jenkins || Ansible || Terraform || Kubernetes || Linux || Bash || Git || Docker.
 
 - 🔭 I’m currently working on a CI/CD project using AWS managed services (Beanstalk, CodeCommit, CodeDeploy, CodeBuild, CodePipeline) 
 - 🌱 I’m currently learning to improve my skill level on various DevOps tools 
-- 👯 I’m looking to collaborate on DevOps Projects 
+- 👯 I’m looking to collaborate on DevOps and data analytics projects  
 - 🤔 I’m looking for help with an entry-level DevOps role. 
 - 💬 Ask me about Cloud Computing 
 - 📫 How to reach me: abdulemes@gmail.com 
