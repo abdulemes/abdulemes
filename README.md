@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Musa.
-I am very enthusiastic about the cloud computing space and the world of data. I like to leverage on my curiosity to learn about cool technologies so i can be a part of the new future that technology is driving us towards.
+I am very enthusiastic about the cloud computing space. I like to leverage on my curiosity to learn about cool technologies so i can be a part of the new future that technology is driving us towards.
 
 ## Skills:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
