@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Musa.
+### Hi there 👋, My name is Moh
 I am very enthusiastic about the cloud computing space. I like to leverage on my curiosity to learn about cool technologies so i can be a part of the new future that technology is driving us towards.
 
 ## Skills:
