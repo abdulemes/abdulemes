@@ -21,7 +21,6 @@ I am very enthusiastic about the cloud computing space. I like to leverage on my
 - 👯 I’m looking to collaborate on DevOps and data analytics projects  
 - 🤔 I’m looking for help with an entry-level DevOps role. 
 - 💬 Ask me about Cloud Computing 
-- 📫 How to reach me: abdulemes@gmail.com 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am scared of heights, gives me anxiety.  
 
